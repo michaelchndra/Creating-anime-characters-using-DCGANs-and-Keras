@@ -32,4 +32,4 @@
 
 ## Credits
 
-**- IBM**<br/>**- InfiniteLearning**<br/>**Cognitive**<br/>**Google**
+**- IBM**<br/>**- InfiniteLearning**<br/>**- Cognitive**<br/>**- Google**
